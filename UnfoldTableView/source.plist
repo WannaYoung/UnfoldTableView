@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>设备列表</string>
+		<key>type</key>
+		<string>1</string>
+		<key>content</key>
+		<string></string>
+		<key>image</key>
+		<string></string>
+		<key>list</key>
+		<array>
+			<string>游戏机</string>
+			<string>手机</string>
+			<string>平板电脑</string>
+			<string>笔记本电脑</string>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>简介</string>
+		<key>type</key>
+		<string>2</string>
+		<key>content</key>
+		<string>　　外壳尺寸上也同样有所变动，13 寸版本厚度仅 14.9 mm，比上一代薄了 18%，长宽也分别缩减了 10mm 和 7mm，最终体积缩小了 23%；15 寸版本厚度略厚一些，为 15.5 mm，比上一代薄了 12%，长宽也分别缩减了 9.6mm 和 7 mm，体积相应减少 20%。
+	重量上的改变同样明显：13 寸版本重量为 1.37kg，比上一代轻了 0.21kg。15 寸版本重量为 1.83kg，比上一代同样轻了 0.21kg。这也让 13 寸新 MBP 最终重量与 13 寸 MacBook Air 几乎相同。换句话说，你现在能在与 MBA 的便携性下享受到更强性能。</string>
+		<key>image</key>
+		<string></string>
+		<key>list</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>概览</string>
+		<key>type</key>
+		<string>3</string>
+		<key>name</key>
+		<string>MacBook</string>
+		<key>content</key>
+		<string>  对于这款产品而言，毫无疑问Multi-Touch Bar是它最大的亮点，但却不是它唯一的卖点！</string>
+		<key>image</key>
+		<string>jobs.jpg</string>
+		<key>list</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>注意事项</string>
+		<key>type</key>
+		<string>2</string>
+		<key>content</key>
+		<string>对于苹果，很难有人用理性的思维来审视它，这是一家富有传奇色彩而且还非常喜欢折腾的公司，它干掉了光驱，干掉了手机键盘，干掉了3.5毫米耳机孔，直至干掉了一切除USB-C之外的所有接口，每一次减法都直击要害，像要干掉用户“亲妈”一样令人费解！不断改变用户的使用习惯同样也令它背负骂名，不为别的，只是寻求那个更加符合直觉，最简易的体验。我相信，这次的Touch Bar一定不是终点，而是一个全新的开始。</string>
+		<key>image</key>
+		<string></string>
+		<key>list</key>
+		<array>
+			<string></string>
+			<string></string>
+			<string></string>
+		</array>
+	</dict>
+</array>
+</plist>
